@@ -6,6 +6,9 @@ And I'm always passionate about learning new things 📚
 
 Currently working at [Qvant](https://github.com/Qvant-lab)/GPM Data.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supra-modum&theme=buefy&layout=compact)](https://github.com/supramodum/github-readme-stats)
+
+
 <!--
 **supra-modum/supra-modum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
