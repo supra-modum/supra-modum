@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi! My name is Catherine ✨
+
+I'm a Front End developer based in Moscow, Russia. I have `1,5+` years of experience as a developer.
+
+And I'm always passionate about learning new things 📚
+
+Currently working at [Qvant](https://github.com/Qvant-lab)/GPM Data.
 
 <!--
 **supra-modum/supra-modum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
