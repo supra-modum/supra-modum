@@ -1,10 +1,10 @@
 ## Hi! My name is Catherine ✨
 
-I'm a Front End developer based in Moscow, Russia. I have `1,5+` years of experience as a developer.
+I'm a Front End Developer with `1,5+` years of experience. 
 
-And I'm always passionate about learning new things 📚
+Currently based in Moscow, Russia. Working at [Qvant](https://github.com/Qvant-lab)/GPM Data.
 
-Currently working at [Qvant](https://github.com/Qvant-lab)/GPM Data.
+Always passionate about learning new things 📚
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supra-modum&theme=graywhite&layout=compact)](https://github.com/supramodum/github-readme-stats)
 
