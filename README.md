@@ -2,7 +2,7 @@
 
 I'm a Front End Developer with `1,5+` years of experience. 
 
-Currently based in Moscow, Russia. Working at [Qvant](https://github.com/Qvant-lab)/GPM Data.
+Currently based in Tbilisi, Georgia.
 
 Always passionate about learning new things 📚
 
