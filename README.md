@@ -1,4 +1,4 @@
-## Hi! My name is Catherine ✨
+## Hi! My name is Kateryna ✨
 
 I'm a Front End Developer with `1,5+` years of experience. 
 
